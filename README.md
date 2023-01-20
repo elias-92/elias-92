@@ -15,8 +15,6 @@
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
  </a>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elias-92&theme=midnight-purple)
-
  ![VisitorCount](https://profile-counter.glitch.me/elias-92/count.svg)
 </div>
 <!--
